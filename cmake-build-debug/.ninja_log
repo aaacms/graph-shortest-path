@@ -1,0 +1,4 @@
+# ninja log v6
+10	711	7545267194310356	build.ninja	7d365a2b01742342
+93	415	7545267197705495	CMakeFiles/graph_shortest_path.dir/dijkstra.c.obj	9e3190358f88e74e
+417	728	7545267200935410	graph_shortest_path.exe	e5c28e83f3b4502f

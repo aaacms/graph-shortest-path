@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "graph_shortest_path",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "graph_shortest_path::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graph_shortest_path-Debug-16010c23b97602d1cacf.json",
+					"name" : "graph_shortest_path",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/amand/OneDrive/Documents/faculdade/semestre_2/laboratorio_de_programacao_2/graph-shortest-path/cmake-build-debug",
+		"source" : "C:/Users/amand/OneDrive/Documents/faculdade/semestre_2/laboratorio_de_programacao_2/graph-shortest-path"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

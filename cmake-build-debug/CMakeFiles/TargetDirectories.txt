@@ -1,0 +1,3 @@
+C:/Users/amand/OneDrive/Documents/faculdade/semestre_2/laboratorio_de_programacao_2/graph-shortest-path/cmake-build-debug/CMakeFiles/graph_shortest_path.dir
+C:/Users/amand/OneDrive/Documents/faculdade/semestre_2/laboratorio_de_programacao_2/graph-shortest-path/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amand/OneDrive/Documents/faculdade/semestre_2/laboratorio_de_programacao_2/graph-shortest-path/cmake-build-debug/CMakeFiles/rebuild_cache.dir
