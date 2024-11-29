@@ -1,4 +1,8 @@
 # ninja log v6
-10	711	7545267194310356	build.ninja	7d365a2b01742342
-93	415	7545267197705495	CMakeFiles/graph_shortest_path.dir/dijkstra.c.obj	9e3190358f88e74e
-417	728	7545267200935410	graph_shortest_path.exe	e5c28e83f3b4502f
+19	425	7545472835156994	build.ninja	7d365a2b01742342
+51	221	7545468855873995	CMakeFiles/graph_shortest_path.dir/dijkstra.c.obj	9e3190358f88e74e
+59	232	7545468383064075	CMakeFiles/graph_shortest_path.dir/bellman-ford.c.obj	1613f1b42e41ca81
+222	435	7545468857580609	graph_shortest_path.exe	e5c28e83f3b4502f
+3	380	7545472835156994	build.ninja	7d365a2b01742342
+31	139	7545472836240972	CMakeFiles/graph_shortest_path.dir/bellman-ford.c.obj	1613f1b42e41ca81
+140	322	7545472837334558	graph_shortest_path.exe	22cc90add2729d9

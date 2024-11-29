@@ -26,7 +26,7 @@ void impressao(int dist[])
     }
 }
 
-// Função que implementa o algoritmo de Dijkstra para encontrar o caminho mais curto de origem até todos os outros vértices
+// Função que implementa o algoritmo Dijkstra
 void dijkstra(int grafo[V][V], int origem)
 {
     int dist[V];     // Vetor que guarda a menor distância do origem até cada vértice
@@ -67,8 +67,7 @@ void dijkstra(int grafo[V][V], int origem)
 
 int main()
 {
-    /* Exemplo de grafo (matriz de adjacência) com 10 nós e 20 arestas:
-       0 -- 4 --> 1, 0 -- 8 --> 7, etc. (peso das arestas indicado) */
+    /* Exemplo de grafo com 10 nós e 20 arestas */
     int grafo[V][V] = {
         {0, 4, 0, 0, 0, 0, 0, 8, 0, 0},
         {4, 0, 8, 0, 0, 0, 0, 11, 0, 0},

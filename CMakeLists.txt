@@ -3,4 +3,4 @@ project(graph_shortest_path)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(graph_shortest_path dijkstra.c)
+add_executable(graph_shortest_path bellman-ford.c)

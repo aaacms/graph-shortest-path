@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/amand/OneDrive/Documents/faculdade/semestre_2/la
 
 build cmake_object_order_depends_target_graph_shortest_path: phony || .
 
-build CMakeFiles/graph_shortest_path.dir/dijkstra.c.obj: C_COMPILER__graph_shortest_path_unscanned_Debug C$:/Users/amand/OneDrive/Documents/faculdade/semestre_2/laboratorio_de_programacao_2/graph-shortest-path/dijkstra.c || cmake_object_order_depends_target_graph_shortest_path
-  DEP_FILE = CMakeFiles\graph_shortest_path.dir\dijkstra.c.obj.d
+build CMakeFiles/graph_shortest_path.dir/bellman-ford.c.obj: C_COMPILER__graph_shortest_path_unscanned_Debug C$:/Users/amand/OneDrive/Documents/faculdade/semestre_2/laboratorio_de_programacao_2/graph-shortest-path/bellman-ford.c || cmake_object_order_depends_target_graph_shortest_path
+  DEP_FILE = CMakeFiles\graph_shortest_path.dir\bellman-ford.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\graph_shortest_path.dir
   OBJECT_FILE_DIR = CMakeFiles\graph_shortest_path.dir
@@ -63,7 +63,7 @@ build CMakeFiles/graph_shortest_path.dir/dijkstra.c.obj: C_COMPILER__graph_short
 #############################################
 # Link the executable graph_shortest_path.exe
 
-build graph_shortest_path.exe: C_EXECUTABLE_LINKER__graph_shortest_path_Debug CMakeFiles/graph_shortest_path.dir/dijkstra.c.obj
+build graph_shortest_path.exe: C_EXECUTABLE_LINKER__graph_shortest_path_Debug CMakeFiles/graph_shortest_path.dir/bellman-ford.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\graph_shortest_path.dir
